@@ -1,21 +1,21 @@
 @media (max-width:720px){
-  .slide{width: 700px;height:360px;margin:0px auto;}
-  .brighto,.brightt,.brighth,.brightf{width:200px;height:360px;}
-  .tloo,.tlot,.tloh,.tlof,.tlott,.tloht,.tloft{width:500px;height:360px;}
-  header{width:280px;}
-  a{font-size:11px;}
+  .slide{width: 400px;height:250px;left:-150px;}
+  .brighto,.brightt,.brighth,.brightf{width:100px;height:250px;}
+  .tloo,.tlot,.tloh,.tlof,.tlott,.tloht,.tloft{width:300px;height:250px;}
+  header{width:200px;}
+  a{font-size:10px;left:-50px;}
   .dw{margin-left:80px;}
   .tr{margin-left:160px;}
-  p{font-size:11px;}
-  h1{font-size:17px;margin-top:100px;}
-  .button{width: 100px;height:35px;padding-top:1px;}
-  footer{width:720px;}
-  .mes{width:50px;}
+  p{font-size:8px;}
+  h1{font-size:10px;margin-top:50px;}
+  .button{width: 70px;height:30px;padding-top:1px;margin-top:-35px;}
+  footer{width:400px;left:-150px;}
+  .mes{width:30px;}
   .p{padding-top:10px;}
   footer{padding-top:200px;height:100px;}
   #odyn{top:50px;}
   #dwa{top:100px;}
   #try{top:150px;}
   #chotyry{top:200px;}
-  body{height:1780px;}
+  body{height:1340px;}
 }
